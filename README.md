@@ -16,8 +16,7 @@ everything from crystal starting textures plus a custom sky.
 - sky: it is always night. deep purple background, a purple aurora along the horizon, three star layers that twinkle. day, dusk and dawn all look the same.
 - the sky is made with the Nuit mod, so install Nuit. it works even with sodium extra's sky, sun, moon and stars turned off.
 
-
-version: minecraft 1.21.11 (pack format 75)
+version: minecraft 1.21.11
 
 ![sky](screenshots/sky.png)
 
